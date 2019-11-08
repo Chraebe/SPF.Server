@@ -1,0 +1,21 @@
+This repository was modified by Christian Aebeloe (caebel@cs.aau.dk) in order to make HDT++.
+
+The following files were modified:
+hdt-java-core/src/main/java/org/rdfhdt/hdt/triples/impl/BitmapTriples.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/compact/sequence/SequenceLog64.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/compact/sequence/DynamicSequence.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/compact/sequence/Sequence.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/HDTManagerImpl.java
+hdt-api/src/main/java/org/rdfhdt/hdt/hdt/HDTManager.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/hdt/impl/HDTImpl.java
+pom.xml
+
+The following files were added:
+hdt-java-core/src/main/java/org/rdfhdt/hdt/triples/impl/BitmapTriplesPp.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/hdt/impl/HDTPPImpl.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/triples/impl/BitmapTriplesIteratorPp.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/iterator/StarDictionaryTranslateIterator.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/iterator/EmptyStarIterator.java
+hdt-java-core/src/main/java/org/rdfhdt/hdt/stars/*
+hdt-api/src/main/java/org/rdfhdt/hdt/stars/*
+hdt-api/src/main/java/org/rdfhdt/hdt/util/Tuple.java

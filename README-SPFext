@@ -1,0 +1,14 @@
+This repository was modified to support the Star Pattern Fragment extension.
+
+We added to following package from a modified version of the HDT repository:
+src/org/rdfhdt/*
+
+We modified the following files:
+src/org/linkeddatafragments/datasource/HdtDataSource.java
+src/org/linkeddatafragments/datasource/DataSourceFactory.java
+src/org/linkeddatafragments/servlet/TriplePatternFragmentServlet.java
+
+We added the following files:
+src/org/linkeddatafragments/datasource/HdtPPDataSource.java
+
+For any questions, contact Christian Aebeloe at Aalborg University, Dept. of Computer Science: caebel@cs.aau.dk.

@@ -1,0 +1,1 @@
+java -server -Xmx4g -Dlog4j.configuration=file:log4j.properties -jar target/ldf-server.jar config.json
