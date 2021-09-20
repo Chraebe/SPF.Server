@@ -8,7 +8,7 @@
 
     <properties>
         <jettyVersion>9.4.22.v20191022</jettyVersion>
-        <jena.version>3.7.0</jena.version>
+        <jena.version>4.2.0</jena.version>
     </properties>
 
     <dependencies>
